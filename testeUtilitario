@@ -27,3 +27,4 @@ class AnimalModelTest(TestCase):
         self.assertIsNotNone(resultado)
         self.assertEqual(resultado.especie, 'Gato')
 
+teste =  "111111"
